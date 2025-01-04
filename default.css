@@ -1,0 +1,103 @@
+.etabs a:hover {
+    color: rgb(10, 1, 1) !important;
+}
+
+.etabs a:hover {
+    border-color: rgb(8, 1, 1) !important;
+}
+
+.theme_btn {
+    background-color: rgba(5, 4, 4, 0) !important;
+}
+
+.etabs a.selected:hover {
+    color: rgb(194, 149, 35) !important;
+}
+
+.nav-inner-container .main-navigation.desktop-navigation a:hover {
+    color: rgb(255, 255, 255) !important;
+}
+
+.mc-form > button {
+    background-color: rgb(194, 149, 35) !important;
+}
+
+.theme_btn {
+    color: rgb(194, 149, 35) !important;
+}
+
+.header_right .dropdown-menu.pull-right.cart-menu {
+    color: rgb(194, 149, 35) !important;
+}
+
+.footer_heading {
+    color: rgb(0, 0, 0) !important;
+}
+
+.header_right .fa.fa-search {
+    color: rgb(0, 0, 0) !important;
+}
+
+.etabs a.selected {
+    color: rgb(194, 149, 35) !important;
+}
+
+.mc-form .email {
+    color: rgb(194, 149, 35) !important;
+}
+
+.footer_txt.footer_hover:hover {
+    color: rgb(0, 0, 0) !important;
+}
+
+.etabs a.selected {
+    border-color: rgb(194, 149, 35) !important;
+}
+
+.header_right .form-control.input-lg {
+    color: rgb(8, 2, 2) !important;
+}
+
+.header_right .btn-group.btn-block {
+    border-left-color: rgb(3, 1, 1) !important;
+}
+
+.footer_txt {
+    color: rgb(194, 149, 35) !important;
+}
+
+.header_right .btn.btn-inverse.btn-block.btn-lg.dropdown-toggle {
+    color: rgb(8, 1, 1) !important;
+}
+
+.nav-inner-container {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+.list-inline a {
+    color: rgb(33, 23, 23) !important;
+}
+
+.header_right_top {
+    border-bottom-color: rgb(0, 0, 0) !important;
+}
+
+.header_right .btn.btn-inverse.btn-block.btn-lg.dropdown-toggle:hover {
+    color: rgb(8, 0, 0) !important;
+}
+
+.nav-inner-container .main-navigation.desktop-navigation a {
+    color: rgb(194, 149, 35) !important;
+}
+
+.etabs a.selected:hover {
+    border-color: rgb(194, 149, 35) !important;
+}
+
+.mainHeader {
+    background-color: rgb(194, 149, 35) !important;
+}
+
+.mc-form > button {
+    color: rgb(23, 9, 9) !important;
+}
